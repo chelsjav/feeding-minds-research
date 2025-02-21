@@ -1,5 +1,5 @@
 # Feeding Minds: How Lunch Status and Parental Education Affect Student Performance
-### Conducted by: Food For Though Research - Chelsea Javier, Chelsea Jimenez, Nayeli De Anda
+### Food For Though Research - Chelsea Javier, Chelsea Jimenez, Nayeli De Anda
 
 # Description
 This project investigates how lunch status such as free/reduced vs. standard correlates with student exam performance, exploring whether this relationship is influenced by parental education levels. By examining these socioeconomic factors, the study aims to examine potential disparities in academic outcomes and provide insights into how resources like school lunch programs may affect educational equity.
