@@ -12,3 +12,11 @@ There is no significant interaction between lunch status (free/reduced vs. stand
 
 ## Alternative Hypothesis (H1)
 There is a significant interaction between lunch status and parental education level on student exam performance. Specifically, the effect of lunch status on exam scores varies depending on parental education level, with students from families with lower parental education levels and free/reduced lunch status performing differently than other groups.
+
+# Key Findings
+- Students on standard lunch outperform students on free/reduced lunch across all subjects (math, reading, and writing).
+- The impact of lunch status on test performance varies by parental education level.
+- For students whose parents have lower education levels, the performance gap is more pronounced.
+- For students whose parents have higher education levels, the gap narrows which suggest that higher parental education levels mitigates disadvantages associated with free/reduced lunch.
+- Socioeconomic disparities remain a significant determinant of student performance, emphasizing the need for targeted support for free/reduced lunch students, particularly those with parents who have lower education levels.
+- Therefore, we reject the Null Hypothesis.
